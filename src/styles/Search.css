@@ -1,0 +1,35 @@
+@import url(./vars.css);    
+.Search {
+    margin-left: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    height: 30px;
+}
+.Search input{
+    font-size:18px;
+    font-weight: 100;
+    height: 38px;
+    width: 600px;
+    padding-left: 30px;    
+    color:var(--grey-fonts);
+    background-color: var(--very-ligth-grey);
+    border: none;
+}
+
+.Search .search-icon{
+    width: 40px;
+    height: 38px;
+    background-image: url('../Assets/Icons/icon-cart.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-color: var(--ligth-grey);
+    border:10px solid var(--ligth-grey)
+}
+
+
+.Search .search-icon:hover{
+    cursor: pointer;
+}

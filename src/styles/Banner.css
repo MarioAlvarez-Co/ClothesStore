@@ -1,0 +1,22 @@
+@import url(./vars.css);    
+.Featured-Categories{
+    display: flex;
+    flex-direction: row;
+    font-family: 'Roboto', sans-serif;;
+    justify-content: space-evenly;
+    color: var(--white);
+    margin-top: -100px;
+}
+.Featured-Categories img{
+    width: 640px;
+    height: 440px;
+
+}
+.Featured-Categories h3{
+    font-size: 62px;
+    font-style: italic;
+    text-align: center;
+    position: relative;
+    top: 380px;
+    margin: 0 auto;                    
+}

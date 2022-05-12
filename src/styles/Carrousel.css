@@ -1,0 +1,30 @@
+@import url(./vars.css);    
+.Carrousel{
+    width: 100vw;
+}
+.Carrousel img{
+    
+    width: 100vw;
+    height: 500px;
+    transition: 2s;
+    
+}
+.Carrousel button{
+    position: relative;
+    width: 62px;
+    height: 62px;
+    border: none;
+    color: var(--white);
+    background-color: rgba(0, 0, 0,0.4);
+    
+}
+.Carrousel .next {
+    
+    bottom:300px;
+    left: 92rem;
+}
+.Carrousel .previous {
+    
+    bottom:300px;
+    left: 10px;
+}

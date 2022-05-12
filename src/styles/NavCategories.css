@@ -1,0 +1,26 @@
+@import url(./vars.css);    
+.NavCategories{
+    width: 100vw;
+    height: 80px;
+    color: var(--white);
+    background-color: var(--black);
+    display: flex;    
+    justify-content: center;
+    align-items: center;
+}
+.NavCategories ul{
+    width: 100vw;
+    display: flex;    
+    justify-content:center;    
+}
+.NavCategories ul li{
+    margin: 20px;
+    font-size: 28px;
+    padding-right: 40px;  
+    height: 48px;    
+    list-style: none;
+    border-right:2px solid var(--white) ;
+}
+.NavCategories ul li:nth-last-child(1){
+    border:none;
+}

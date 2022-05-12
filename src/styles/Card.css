@@ -1,0 +1,38 @@
+@import url(./vars.css);    
+ .Card{
+    width: 320px;
+    height: 500px;
+    margin: 20px;
+    background-color: var(--grey-background);
+ }
+ .Card img{
+    width: 320px;
+    height:350px;
+
+ }
+ .Card p{
+     
+     font-weight:bold;
+     text-align: start;
+     margin: 10px;
+ }
+ .Card .price{
+     color: var(--purple);
+ }
+ .Card button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:280px;
+    height: 34px;
+    border: none;
+    background-color: var(--black)    ;
+    color: var(--white);
+    margin: 20px  auto;
+ }
+
+ .Card button img{
+     width: 20px;
+     height: 20px;
+ }
+ 

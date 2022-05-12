@@ -1,0 +1,11 @@
+.Products{
+    height: 100%;
+    padding: 10px;
+    width: 100vw;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 280px);    
+    justify-content:center;
+    gap: 50px;
+    margin:10px auto;
+    
+}

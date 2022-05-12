@@ -1,0 +1,21 @@
+@import url(./vars.css);    
+.MasBuscados{
+    margin-top: 24px;
+    text-align: center;
+    height: 600px;
+    width: 100vw;
+   
+}
+.MasBuscados h2{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 44px;  
+}
+.products-carrousel{
+    width: 80vw;
+    margin: auto;        
+    display: flex;
+    overflow-x: scroll;
+    overscroll-behavior-x: contain;
+
+}
+

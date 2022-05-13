@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "14a9c417b964634ecf19",
+    "revision": "5710e413a7b85d4237fc",
     "url": "/ClothesStore/static/css/main.f04bb3de.chunk.css"
   },
   {
-    "revision": "14a9c417b964634ecf19",
-    "url": "/ClothesStore/static/js/main.14a9c417.chunk.js"
+    "revision": "5710e413a7b85d4237fc",
+    "url": "/ClothesStore/static/js/main.5710e413.chunk.js"
   },
   {
     "revision": "4c01fddca6c1bc376571",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/ClothesStore/static/media/categorias-destacadas-proteccion.95f8b79b.png"
   },
   {
-    "revision": "e246d0507290c715bd5601d54d647f70",
+    "revision": "7fd4a6e5cfd2427bbe49f557c07a235f",
     "url": "/ClothesStore/index.html"
   }
 ];
